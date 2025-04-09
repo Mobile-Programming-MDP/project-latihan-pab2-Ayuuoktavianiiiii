@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "368975565731",
+    "firebase_url": "https://ayusri-app-default-rtdb.firebaseio.com",
+    "project_id": "ayusri-app",
+    "storage_bucket": "ayusri-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368975565731:android:a43480e4fc12dcd0078016",
+        "android_client_info": {
+          "package_name": "com.example.daftar_belanjaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-z2XY6Lfb6FPjbyIZAYU_04uPSSRyvL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
